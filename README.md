@@ -32,4 +32,4 @@ node .
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
 
-[Support Server](https://discord.gg/8YvXsFFNcb) - Discord-Bot's Support Server Invite
+[Support Server](https://discord.gg/8YvXsFFNcb) - This is a House Kaimyla / support server
