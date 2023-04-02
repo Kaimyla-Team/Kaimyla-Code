@@ -4,6 +4,8 @@ This is the Kaimyla bot source code for your use
 
 **Kaimyla welcomes you! My source code is open to anyone!**
 
+``The bot is in Russian, you can translate it yourself at any time``
+
 ## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
 - NodeJs v17+
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
@@ -15,7 +17,7 @@ This is the Kaimyla bot source code for your use
 ### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
 Clone the repo by running
 ```bash
-git clone https://github.com/Corwindev/Discord-Bot.git
+git clone https://github.com/Kaimyla-Team/Kaimyla-Code.git
 ```
 ### After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
 
@@ -25,17 +27,9 @@ npm install
 To start your bot 
 
 ```js
-node src/index.js
+node .
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/jVeC7cFX5T)](https://discord.gg/jVeC7cFX5T)
 
-[Support Server](https://discord.gg/jVeC7cFX5T) - Discord-Bot's Support Server Invite
-
-# <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
-> How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
-
-```bash
-npm run add-dev YOUR_ID
-```
+[Support Server](https://discord.gg/8YvXsFFNcb) - Discord-Bot's Support Server Invite
