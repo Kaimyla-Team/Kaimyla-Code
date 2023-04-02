@@ -1,10 +1,10 @@
 {
-  "name": "wumpus-gpt",
+  "name": "Kaimyla",
   "version": "0.0.1",
   "license": "MIT",
   "author": {
     "name": "biscxit",
-    "url": "https://github.com/biscxit"
+    "url": "https://github.com/Kaimyla-Team/"
   },
   "main": "dist/index.js",
   "scripts": {
