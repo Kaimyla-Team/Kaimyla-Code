@@ -6,14 +6,9 @@ This is the Kaimyla bot source code for your use
 
 ## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
 - NodeJs v17+
-- Java v13 for lavalink server.
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
-- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
-- Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
+- MySQL/PlanetScale URL. Get it from [PlanetScale](https://planetscale.com/)
 - APi Key for OpenAi `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
-- ClientID `for loading slash commands.`
-- Spotify client ID `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
-- Spotify client Secret `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
 
 ## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
 
